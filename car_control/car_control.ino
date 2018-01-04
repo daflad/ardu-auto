@@ -9,6 +9,6 @@ void setup() {
 
 void loop() {
   if ObjectAhead() {
-
+    Serial.println("STOP CAR AND REVERSE!")
   }
 }
